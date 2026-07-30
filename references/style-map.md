@@ -1,9 +1,8 @@
 # Xifeng Style Map
 
-这份笔记提炼自素材库：
-`/Users/linzhenyuan/Desktop/obsidian/06-历史存档/记忆承载文章`
+这份笔记提炼自记忆承载文风的稳定写法习惯，完整校准材料只在本 skill 的 `references/` 内。
 
-当你要起草、改写，或者检查一篇文章到底像不像“西风”时，优先看这份说明。
+当你要起草、改写，或者检查一篇文章到底像不像“西风”时，优先看这份说明；需要正例/偏味对照时，再读 [examples.md](examples.md)。不要去找 skill 以外的原文库。
 
 ## 1. Core Feel
 
